@@ -2,7 +2,25 @@
 
 ## About Me
 
-I am a Full Stack Software Engineer with a strong foundation in both frontend and backend development. With experience ranging from enterprise-level applications to innovative startups, I specialize in building scalable and efficient solutions using modern technologies. My journey in software development has been marked by continuous learning and adaptation to new technologies, from traditional Java/Spring Boot applications to cutting-edge React and AI integrations. I approach development with a founder's mindset, focusing not just on code quality but also on business value and user experience.
+I am the founder of a freelance software development business specializing in delivering tailored software solutions for small businesses and startups. Through my independent practice, I help businesses transform their digital presence through custom web applications and mobile solutions. My expertise spans from traditional Java/Spring Boot applications to cutting-edge React and AI integrations. I approach development with a founder's mindset, focusing not just on code quality but also on business value and user experience. Whether you're a small business looking to establish your online presence or a startup seeking to scale your digital infrastructure, I provide end-to-end solutions that drive growth and efficiency.
+
+### Free Consultation Offer
+I offer a complimentary 30-minute consultation session to discuss your project needs and explore how I can help bring your vision to life. During this session, we'll:
+- Review your business goals and technical requirements
+- Discuss potential solutions and technology stack
+- Outline project scope and timeline
+- Address any questions you may have
+
+To schedule your free consultation, please reach out through any of the contact methods below.
+
+## Contact
+
+- 📧 Email: wolf.hopkins@gmail.com
+- 📱 Phone: 860-819-6996
+- 🔗 LinkedIn: [wolf-hopkins-zevrov](https://linkedin.com/in/wolf-hopkins-zevrov/)
+- 💻 GitHub: [Zevrov](https://github.com/Zevrov)
+
+*Schedule your free consultation today to discuss your project needs!* 
 
 ## Key Skills
 
@@ -85,10 +103,3 @@ I am a Full Stack Software Engineer with a strong foundation in both frontend an
 
 - **Gitbook**: A VS Code extension for tracking task history in git repositories
 - **Perplexity AI Clone**: A web application that provides AI-powered, cited answers to questions
-
-## Contact
-
-- 📧 Email: wolf.hopkins@gmail.com
-- 📱 Phone: 860-819-6996
-- 🔗 LinkedIn: [wolf-hopkins-zevrov](https://linkedin.com/in/wolf-hopkins-zevrov/)
-- 💻 GitHub: [Zevrov](https://github.com/Zevrov) 
