@@ -18,7 +18,6 @@ I am a Full Stack Software Engineer with a strong foundation in both frontend an
 - React
 - Material-UI
 - Angular
-- WordPress
 
 ### Backend Development
 - Node.js
@@ -57,7 +56,6 @@ I am a Full Stack Software Engineer with a strong foundation in both frontend an
 - Linux/Unix
 - AI Integration
 - Machine Learning
-- WordPress
 
 ## Experience Highlights
 
