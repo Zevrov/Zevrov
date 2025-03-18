@@ -18,6 +18,7 @@ I am a Full Stack Software Engineer with a strong foundation in both frontend an
 - React
 - Material-UI
 - Angular
+- Bootstrap
 
 ### Backend Development
 - Node.js
