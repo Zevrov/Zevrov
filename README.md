@@ -88,7 +88,7 @@ To schedule your free consultation, please reach out through any of the contact 
   - Implemented automated deployment processes
   - Enhanced user experience through API integrations
 
-- **Full Stack Software Engineer** at Lockheed Martin (Jan. 2020 - Dec. 2020)
+- **Full Stack Software Engineer** at Lockheed Martin (Nov. 2020 - Dec. 2020)
   - Developed features for enterprise web applications
   - Implemented automated data import systems
   - Increased test coverage by 30%
