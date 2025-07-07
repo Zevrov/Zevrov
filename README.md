@@ -83,12 +83,12 @@ To schedule your free consultation, please reach out through any of the contact 
   - Integrated AI models and RESTful APIs for enhanced functionality
   - Optimized deployment processes using AWS and Docker
 
-- **Full Stack Software Engineer** at Two Fish Creative (Nov. 2021 - Jan. 2023)
+- **Full Stack Software Engineer** at Two Fish Creative (Jan. 2022 - Jan. 2023)
   - Led platform migrations to modern architectures
   - Implemented automated deployment processes
   - Enhanced user experience through API integrations
 
-- **Full Stack Software Engineer** at Lockheed Martin (Nov. 2019 - March. 2021)
+- **Full Stack Software Engineer** at Lockheed Martin (Jan. 2020 - Dec. 2020)
   - Developed features for enterprise web applications
   - Implemented automated data import systems
   - Increased test coverage by 30%
